@@ -1,0 +1,23 @@
+.search{
+    width:600px;
+    background-color:rgb(229, 234, 233);
+    padding:8px;
+    font-size:18px;
+}
+#img{
+    width:150px;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    margin-top:10px;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-weight: 500;
+}
+a:hover{
+   color:rgb(255, 183, 2)
+    
+}
